@@ -1,0 +1,64 @@
+<style>
+
+	  body {
+    	/*background-image: url("file:///Z:/broodcoffee.github.io/images/download.jpg"); 
+    	background-image: url("file:///C:/Users/Lenovo/Desktop/CITCS/ITE3/Lab/broodcoffee.github.io/images/download.jpg");
+    	background-size: 100% 100%;
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;*/
+	  }
+
+	  h1, h3 {
+	    text-align: center;
+	    padding: 10px;
+	    font-weight: bold;
+	  }
+
+	   h4, p {
+	    text-align: center;
+	    padding: 10px;
+	  }
+
+	  .nav navbar-nav {
+    	background-color: #ddd;
+	  }
+	  
+	  #vidz {
+	  	display: block;
+        margin: auto;
+	  	text-align: center;
+	  	padding: 10px;
+	  }
+
+	  .thick-black-border {
+	    border-color: black;
+	    border-width: 10px;
+	    border-style: solid;
+	  }
+
+	  .imahen {
+	    width: 150px;
+	    border-radius: 50%;
+	    margin: auto;
+	  	display: block;
+	  } 
+
+	  .navbar-brand {
+	    font-weight: bold;
+	  } 
+
+	  .itemz {
+	  	text-align: justify;
+	  	display: block;
+        margin: auto; 
+	  	padding: 10px;
+	  	list-style-type: none; 
+	  	text-align: center;
+	  } 
+
+  	  .lista, .cont {
+        margin: auto;
+		text-align: justify-all;
+	  } 
+
+	</style>
