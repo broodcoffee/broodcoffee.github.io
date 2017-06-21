@@ -1,0 +1,74 @@
+<style>
+
+      body {
+      	background-size: 100% 100%;
+      	background-repeat: no-repeat;
+      	background-position: center center;
+      	background-attachment: fixed;
+      }
+
+
+	  h1, h3 {
+	    text-align: center;
+	    padding: 10px;
+	    font-weight: bold;
+	    opacity: 1;
+	  }
+
+	  h4, p {
+	    text-align: center;
+	    padding: 10px;
+	    opacity: 1;
+	  }
+
+	  .transbox {
+	  	margin: 0;
+    	background-color: rgba(255,255,255,0.6);
+	  }
+
+	  #vidz {
+	  	display: block;
+        margin: auto;
+	  	text-align: center;
+	  	padding: 10px;
+	  }
+		.thick-black-border {
+	    border-color: black;
+	    border-width: 10px;
+	    border-style: solid;
+	  }
+
+	  .imahen {
+	    width: 150px;
+	    border-radius: 50%;
+	    margin: auto;
+	  	display: block;
+	  }
+
+	  .wallpaper {
+	  	object-position: relative;
+	    width: 100%;
+	    height: 100%;
+	    margin: auto;
+	  	display: block;
+	  	opacity: 0.5
+	  } 
+
+	  .navbar-brand {
+	    font-weight: bold;
+	  } 
+
+	  .itemz {
+	  	display: block;
+        margin: auto; 
+	  	padding: 10px;
+	  	list-style-type: none; 
+	  	text-align: center;
+	  } 
+
+  	  .lista, .cont {
+        margin: auto;
+		text-align: justify-all;
+	  } 
+
+	</style>
