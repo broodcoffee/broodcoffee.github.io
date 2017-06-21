@@ -1,5 +1,6 @@
 <style>
 
+<<<<<<< HEAD
       body {
       	background-size: 100% 100%;
       	background-repeat: no-repeat;
@@ -7,11 +8,21 @@
       	background-attachment: fixed;
       }
 
+=======
+	  body {
+    	/*background-image: url("file:///Z:/broodcoffee.github.io/images/download.jpg"); 
+    	background-image: url("file:///C:/Users/Lenovo/Desktop/CITCS/ITE3/Lab/broodcoffee.github.io/images/download.jpg");
+    	background-size: 100% 100%;
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;*/
+	  }
+>>>>>>> 4da0aec7a9eeca4f53bf9a6f34cdd5838d9cfa84
 
 	  h1, h3 {
 	    text-align: center;
 	    padding: 10px;
 	    font-weight: bold;
+<<<<<<< HEAD
 	    opacity: 1;
 	  }
 
@@ -26,13 +37,31 @@
     	background-color: rgba(255,255,255,0.6);
 	  }
 
+=======
+	  }
+
+	   h4, p {
+	    text-align: center;
+	    padding: 10px;
+	  }
+
+	  .nav navbar-nav {
+    	background-color: #ddd;
+	  }
+	  
+>>>>>>> 4da0aec7a9eeca4f53bf9a6f34cdd5838d9cfa84
 	  #vidz {
 	  	display: block;
         margin: auto;
 	  	text-align: center;
 	  	padding: 10px;
 	  }
+<<<<<<< HEAD
 		.thick-black-border {
+=======
+
+	  .thick-black-border {
+>>>>>>> 4da0aec7a9eeca4f53bf9a6f34cdd5838d9cfa84
 	    border-color: black;
 	    border-width: 10px;
 	    border-style: solid;
@@ -43,6 +72,7 @@
 	    border-radius: 50%;
 	    margin: auto;
 	  	display: block;
+<<<<<<< HEAD
 	  }
 
 	  .wallpaper {
@@ -52,6 +82,8 @@
 	    margin: auto;
 	  	display: block;
 	  	opacity: 0.5
+=======
+>>>>>>> 4da0aec7a9eeca4f53bf9a6f34cdd5838d9cfa84
 	  } 
 
 	  .navbar-brand {
@@ -59,6 +91,10 @@
 	  } 
 
 	  .itemz {
+<<<<<<< HEAD
+=======
+	  	text-align: justify;
+>>>>>>> 4da0aec7a9eeca4f53bf9a6f34cdd5838d9cfa84
 	  	display: block;
         margin: auto; 
 	  	padding: 10px;
