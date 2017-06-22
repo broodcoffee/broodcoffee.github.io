@@ -66,9 +66,15 @@
 	  	text-align: center;
 	  } 
 
-  	  .lista, .cont {
+  	  .lista{
         margin: auto;
 		text-align: justify-all;
 	  } 
+
+	  p.cont {
+        margin-left: 150px;
+        margin-right: 150px;
+		text-align: justify;
+	  }
 
 	</style>
