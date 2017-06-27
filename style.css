@@ -1,10 +1,9 @@
 <style>
 
       body {
-      	background-size: 100% 100%;
-      	background-repeat: no-repeat;
+      	background-size: cover;
       	background-position: center center;
-      	background-attachment: fixed;
+      	background-attachment: scroll;
       }
 
 
@@ -31,7 +30,7 @@
         margin: auto;
 	  	text-align: center;
 	  	padding: 10px;
-	  }
+	  } 
 		.thick-black-border {
 	    border-color: black;
 	    border-width: 10px;
@@ -66,15 +65,28 @@
 	  	text-align: center;
 	  } 
 
-  	  .lista{
-        margin: auto;
-		text-align: justify-all;
-	  } 
-
 	  p.cont {
-        margin-left: 150px;
-        margin-right: 150px;
+        margin-left: 300px;
+        margin-right: 250px;
+		text-align: justify;
+		text-indent: 50px;
+	  }
+
+	  li.lista {
+        margin-left: 30%;
 		text-align: justify;
 	  }
+
+	  li.listz {
+        margin-left: 250px;
+        margin-right: 250px;
+		text-align: justify;
+	  }
+
+	  a.carousel-control{
+	  	font-size: 30px;
+	  }
+
+	 
 
 	</style>
